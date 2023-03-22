@@ -1,0 +1,17 @@
+C:\Users\307-02\Desktop\Gorbatov\TestDataGeneration\bin\Debug\net6.0\TestDataGeneration.exe
+C:\Users\307-02\Desktop\Gorbatov\TestDataGeneration\bin\Debug\net6.0\TestDataGeneration.deps.json
+C:\Users\307-02\Desktop\Gorbatov\TestDataGeneration\bin\Debug\net6.0\TestDataGeneration.runtimeconfig.json
+C:\Users\307-02\Desktop\Gorbatov\TestDataGeneration\bin\Debug\net6.0\TestDataGeneration.dll
+C:\Users\307-02\Desktop\Gorbatov\TestDataGeneration\bin\Debug\net6.0\TestDataGeneration.pdb
+C:\Users\307-02\Desktop\Gorbatov\TestDataGeneration\bin\Debug\net6.0\Bogus.dll
+C:\Users\307-02\Desktop\Gorbatov\TestDataGeneration\obj\Debug\net6.0\TestDataGeneration.csproj.AssemblyReference.cache
+C:\Users\307-02\Desktop\Gorbatov\TestDataGeneration\obj\Debug\net6.0\TestDataGeneration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\307-02\Desktop\Gorbatov\TestDataGeneration\obj\Debug\net6.0\TestDataGeneration.AssemblyInfoInputs.cache
+C:\Users\307-02\Desktop\Gorbatov\TestDataGeneration\obj\Debug\net6.0\TestDataGeneration.AssemblyInfo.cs
+C:\Users\307-02\Desktop\Gorbatov\TestDataGeneration\obj\Debug\net6.0\TestDataGeneration.csproj.CoreCompileInputs.cache
+C:\Users\307-02\Desktop\Gorbatov\TestDataGeneration\obj\Debug\net6.0\TestDataGeneration.csproj.CopyComplete
+C:\Users\307-02\Desktop\Gorbatov\TestDataGeneration\obj\Debug\net6.0\TestDataGeneration.dll
+C:\Users\307-02\Desktop\Gorbatov\TestDataGeneration\obj\Debug\net6.0\refint\TestDataGeneration.dll
+C:\Users\307-02\Desktop\Gorbatov\TestDataGeneration\obj\Debug\net6.0\TestDataGeneration.pdb
+C:\Users\307-02\Desktop\Gorbatov\TestDataGeneration\obj\Debug\net6.0\TestDataGeneration.genruntimeconfig.cache
+C:\Users\307-02\Desktop\Gorbatov\TestDataGeneration\obj\Debug\net6.0\ref\TestDataGeneration.dll
